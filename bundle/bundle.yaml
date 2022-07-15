@@ -1,5 +1,5 @@
 apiVersion: "1"
-version: "4"
+version: "5"
 id: "org-rimac-test-1-ops-controller"
 description: "CloudBees CI configuration bundle for the org-rimac-test-1 ops-controller Controller"
 parent: "base"
